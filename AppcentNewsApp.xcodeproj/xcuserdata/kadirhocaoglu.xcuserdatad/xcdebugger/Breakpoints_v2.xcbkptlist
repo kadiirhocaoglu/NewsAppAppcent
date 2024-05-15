@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "151D8DC4-FAF4-43A0-9109-C5B8B9D0322D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1045BB3-E1F7-45C9-9C66-F5989A72B353"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppcentNewsApp/Controllers/FavoriteNewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "FavoriteNewsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A1045BB3-E1F7-45C9-9C66-F5989A72B353 - ab2465c0e0f95768"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppcentNewsApp.FavoriteNewsViewController.articles.getter : Swift.Array&lt;AppcentNewsApp.Article&gt;"
+                  moduleName = "AppcentNewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadirhocaoglu/Desktop/Courses/Kadir%20with%20Swift/AppcentNewsApp/AppcentNewsApp/Controllers/FavoriteNewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "A1045BB3-E1F7-45C9-9C66-F5989A72B353 - d68548994ea34921"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppcentNewsApp.FavoriteNewsViewController.articles.setter : Swift.Array&lt;AppcentNewsApp.Article&gt;"
+                  moduleName = "AppcentNewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadirhocaoglu/Desktop/Courses/Kadir%20with%20Swift/AppcentNewsApp/AppcentNewsApp/Controllers/FavoriteNewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A1045BB3-E1F7-45C9-9C66-F5989A72B353 - 7314226e2592c612"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppcentNewsApp.FavoriteNewsViewController.articles.modify : Swift.Array&lt;AppcentNewsApp.Article&gt;"
+                  moduleName = "AppcentNewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadirhocaoglu/Desktop/Courses/Kadir%20with%20Swift/AppcentNewsApp/AppcentNewsApp/Controllers/FavoriteNewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A1045BB3-E1F7-45C9-9C66-F5989A72B353 - afa617a8827d5b93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppcentNewsApp.FavoriteNewsViewController.articles.modify : Swift.Array&lt;AppcentNewsApp.Article&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "AppcentNewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadirhocaoglu/Desktop/Courses/Kadir%20with%20Swift/AppcentNewsApp/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "A1045BB3-E1F7-45C9-9C66-F5989A72B353 - 4caff2557eccb9c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppcentNewsApp.FavoriteNewsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; AppcentNewsApp.FavoriteNewsViewController"
+                  moduleName = "AppcentNewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadirhocaoglu/Desktop/Courses/Kadir%20with%20Swift/AppcentNewsApp/AppcentNewsApp/Controllers/FavoriteNewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "A1045BB3-E1F7-45C9-9C66-F5989A72B353 - 39c2eb2c7fa13377"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppcentNewsApp.FavoriteNewsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AppcentNewsApp.FavoriteNewsViewController&gt;"
+                  moduleName = "AppcentNewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadirhocaoglu/Desktop/Courses/Kadir%20with%20Swift/AppcentNewsApp/AppcentNewsApp/Controllers/FavoriteNewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B70ED9C4-7538-4E5F-B7B3-EB1B3C6A29D4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppcentNewsApp/Controllers/FavoriteNewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
